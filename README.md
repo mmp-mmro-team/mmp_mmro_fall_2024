@@ -2,7 +2,7 @@
 В репозитории находятся материалы и домашние задания по семинарам "ММРО 2024/2025"
 
 <p align="center">
-<img src="https://github.com/mmp-mmro-team/mmp_mmro_fall_2021/blob/main/trash/kernel_trick.jpg" height=200pt>
+<img src="https://github.com/mmp-mmro-team/mmp_mmro_fall_2021/blob/main/trash/kernel_trick.jpg" height=400pt>
 </p>
 
 :white_check_mark: **Курс сдается через систему [anytask](https://anytask.org/course/1125). Инвайт можете получить у преподавателя**
